@@ -1,5 +1,5 @@
 # 👋 Saudações, seja bem-vindo(a)
-👨‍💻 Samuel Rayol é um projeto em desenvolvimento. Atuei anos como suporte, agora conttinuo ajudando pessoasl, mas dessa vez desenvolvendo soluções com linhas de código.
+👨‍💻 Samuel Rayol é um projeto em desenvolvimento. Atuei anos como suporte, agora continuo ajudando pessoasl, mas dessa vez desenvolvendo soluções com linhas de código.
 
 ### :books: Cursos ou eventos de aprimoramento:
    * Imersão Dev - Alura
