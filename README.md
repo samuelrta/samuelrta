@@ -1,5 +1,12 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=samuelrta
+<p align="justify">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelrta&show_icons=true&count_private=true&theme=radical&hide=issues" />
+</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrta&layout=compact&theme=radical" />
+</a>
+</p>
 
 <!--
 **samuelrta/samuelrta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
